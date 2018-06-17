@@ -1,10 +1,7 @@
 ---
 templateKey: about-page
-title: Michael Graetz
+title: Michael Graetz B.Arch, M.Arch, ASIA
 ---
-# Curriculum Vitae
-
-## Michael Graetz B.Arch, M.Arch, ASIA
 
 ## Architect and Zoological Exhibit Designer
 
@@ -29,6 +26,8 @@ Over the years of Mikes tenure, Singapore Zoo became sought after for its desi
 Mike obtained a Bachelor of Architecture from the University of South Australia in 1982. In 1995 he was awarded a Master of Architecture degree by dissertation from the National University of Singapore on zoo exhibit design and its role in the social objectives of zoological gardens.
 
 On joining Singapore Zoo in 1984, he held the post of Architect and became first Head of the CDT and in 2000 a Director of Wildlife Reserves Singapore, the company formed when the Zoo merged with Jurong Bird Park. He has participated in ongoing staff training programmes of WRS; introducing keepers to the principles of exhibit design, and organised design workshops for SEAZA, the South East Asia Zoo Association.
+
+# Curriculum Vitae
 
 ## Education
 
