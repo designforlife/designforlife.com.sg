@@ -1,19 +1,29 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Design For Life Consultancy
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### . . . designing for animals, people, nature.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Design For Life Consultancy is a Singapore-based firm specialised in the design of zoos, zoo exhibits and other nature related attractions. Its founder and principal designer, Michael Graetz has some 35 years experience in zoo design, including 20 years leading Singapore Zoo's in-house design effort.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Design For Life works with a network of architects, landscape architects and zoologists to create collaborative teams of professionals tailored to the requirements of each project.
+
+
+
+Design For Life has undertaken projects mostly in Asia and the Middle East but also in the U.K. Our philosophy is to build on our practical knowledge of zoo operations and management to ensure our projects are functional for the client and yet we aim to innovate, to take ideas and draw inspiration from sources other than zoos.
+
+
+
+This, briefly is what Design For Life is. It is about design for _life_ in the widest sense: both human life and animal life.
+
+* Over three decades of experience in zoo design
+* Led by the former head of Singapore Zoo's Creative Design Team
+* Understands zoos from the inside; the problems and practices of zoo keepers and managers
+* Understands animal management from zoo and protected area (national park) perspectives
+* Intimately involved with the conception, design & development of the first open air, nocturnal zoo in the world - Night Safari, Singapore
+* Unique Asian-based Asian perspective
+* Provided zoo design services to clients in Seychelles, U.A.E., Qatar, India, China, Malaysia, Indonesia, Cambodia, Sri Lanka, Philippines, Myanmar and Singapore
+* Access to a network of allied consultants, biologists, educators, zoo and wildlife husbandry specialists
+* Innovation in design and product - thinking outside the enclosure
