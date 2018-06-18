@@ -4,6 +4,8 @@ title: Design For Life Consultancy
 ---
 ### . . . designing for animals, people, nature.
 
+![Design For Life Consultancy](/img/dfl-logo.png)
+
 Design For Life Consultancy is a Singapore-based firm specialised in the design of zoos, zoo exhibits and other nature related attractions. Its founder and principal designer, Michael Graetz has 35 years of experience in zoo design, including 20 years leading Singapore Zoo's in-house design effort.
 
 Design For Life works with a network of architects, landscape architects and zoologists to create collaborative teams of professionals tailored to the requirements of each project.
